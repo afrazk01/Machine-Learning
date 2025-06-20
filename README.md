@@ -1,3 +1,3 @@
 # Machine Learning 
-This is Machine learning Repositories contain Each Machine Learning Algorith
-You can find all the ML Algorithms by their file names
+This is Free time Practice and Revision Repo of Machine Learning 
+This Repo contain everything related to Machine learning and in my free time i add different ML stuff here
